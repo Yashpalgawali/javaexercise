@@ -18,12 +18,12 @@ public class FileReadRunner {
 //		System.out.println(allLines);
 
 		// For large files
-		// the Files.lines() returns a stream , henc we can use forEach loop
-//				Files.lines(pathFileToRead).forEach(System.out::println);
+		// the Files.lines() returns a stream , hence we can use forEach loop
+		// Files.lines(pathFileToRead).forEach(System.out::println);
 
 		
 		// For large files
-		// the Files.lines() returns a stream , henc we can use forEach loop
+		// the Files.lines() returns a stream , hence we can use forEach loop
 		
 		 
 		Files.lines(pathFileToRead)
