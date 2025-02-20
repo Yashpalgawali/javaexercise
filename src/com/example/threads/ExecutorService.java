@@ -47,7 +47,7 @@ public class ExecutorService {
 	// End of Single Thread Execution
 		
 		
-		java.util.concurrent.ExecutorService exservice=  Executors.newFixedThreadPool(2);
+		java.util.concurrent.ExecutorService exservice = Executors.newFixedThreadPool(2);
 		exservice.execute(new Task(1));
 		exservice.execute(new Task(2));
 		exservice.execute(new Task(3));
