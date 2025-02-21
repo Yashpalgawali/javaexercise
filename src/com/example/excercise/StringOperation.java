@@ -1,7 +1,6 @@
 package com.example.excercise;
 
-import java.util.ArrayList;
-
+ 
 public class StringOperation {
 
 	public static void main(String[] args) {

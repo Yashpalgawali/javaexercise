@@ -6,7 +6,7 @@ public class FindLargestItem {
 
 	public static void main(String[] args) {
 		// Find largest item
-		int arr[] = {1,10,1,1};
+		int arr[] = {1,10,100,1};
 		
 		System.out.println("Length = "+arr.length);
 		

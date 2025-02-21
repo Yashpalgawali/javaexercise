@@ -3,7 +3,7 @@ package com.example.excercise;
 public class SecondLargestNumber {
 
 	public static void main(String[] args) {
-		 int[] arr1 = {10, 5, 10};
+		 int[] arr1 = {10, 70, 10};
 	        int[] arr2 = {1, 2, 4, 41, 54, 65};
 	        int[] arr3 = {10, 5, 10, 10};
 	        
