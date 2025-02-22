@@ -6,12 +6,11 @@ import java.util.Set;
 public class SetCollection {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-		Set<String> set = Set.of("Apple","Bat","Cat");
+		 Set<String> set = Set.of("Apple","Bat","Cat");
 
-		//set.add("Dog");
-		System.err.println(set);
+		 //set.add("Dog");
+		 System.err.println(set);
 
 		 Set<String> hashSet = new HashSet<>(set);
 		 hashSet.add("Cat");
